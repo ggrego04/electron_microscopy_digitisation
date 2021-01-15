@@ -7,8 +7,6 @@
 * [Technologies](#technologies)
 * [Demonstration](#demonstration)
 * [Structure](#structure)
-* [Useful Resources](#useful-resources)
-
 
 
 ## General info
@@ -24,3 +22,6 @@ Technologies and Frameworks used for this project:
 
 ## Demonstration
 There is a video inside the repository that explains and shows how the system works
+
+## Structure
+There are two editions of the same program, one that makes use of the Unet neural network to find the area of the membrane (final.py) and another one where this process can be done manually by the user (final_v2.py).
